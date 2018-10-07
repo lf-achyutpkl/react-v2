@@ -3,3 +3,9 @@ IMDB api: http://www.omdbapi.com/
 Free weather api: https://openweathermap.org/api
 
 You can create either weather app, imdb app that list movies, search and filter, or create post and comment using above api.
+
+
+
+
+Reading Resource:
+https://reactjs.org/docs/thinking-in-react.html
